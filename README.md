@@ -1,6 +1,6 @@
 # Php-web-app-with-logging-database-and-user-permissions
 
-**You need to download and add folder with htmlpurifier-4.15.0 on the same level as other directories in application.**
+**You need to download and add folder with htmlpurifier-4.15.0 on the same level as other directories in application. The session in the application lasts 5 minutes, then the user has to log in again. **
 
 **Main page:**
 
@@ -29,3 +29,8 @@
 ![image](https://github.com/MarcineQu/Php-web-app-with-logging-database-and-user-permissions/assets/83167368/ef908a41-6f3f-4ca0-85e9-821612100abf)
 ![image](https://github.com/MarcineQu/Php-web-app-with-logging-database-and-user-permissions/assets/83167368/60b96dff-a6b7-480a-af8c-b44caab7639d)
 ![image](https://github.com/MarcineQu/Php-web-app-with-logging-database-and-user-permissions/assets/83167368/e5c2e651-d0ea-437f-a83f-c9c9c1a566e7)
+
+**Database structure:**
+
+![image](https://github.com/MarcineQu/Php-web-app-with-logging-database-and-user-permissions/assets/83167368/5ffeb14d-d3cf-4666-9e86-cedde50582e6)
+
