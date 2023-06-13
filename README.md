@@ -1,6 +1,6 @@
 # Php-web-app-with-logging-database-and-user-permissions
 
-**You need to download and add folder with htmlpurifier-4.15.0 on the same level as other directories in application. The session in the application lasts 5 minutes, then the user has to log in again. **
+**You need to download and add folder with htmlpurifier-4.15.0 on the same level as other directories in application. The session in the application lasts 5 minutes, then the user has to log in again.**
 
 **Main page:**
 
