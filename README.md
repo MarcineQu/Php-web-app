@@ -32,5 +32,8 @@
 
 **Database structure:**
 
+**Tabels incorrect_logins, ip_address, user_login, user_activity are not needed in this context**
+
 ![image](https://github.com/MarcineQu/Php-web-app-with-logging-database-and-user-permissions/assets/83167368/5ffeb14d-d3cf-4666-9e86-cedde50582e6)
+
 
